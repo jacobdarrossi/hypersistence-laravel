@@ -1,5 +1,5 @@
 {
-    "name": "hypersistence/hypersistence-laravel",
+    "name": "hypersistence2-0/hypersistence-laravel",
     "type": "library",
     "description": "PHP Object Oriented persistence framework to Laravel.",
     "keywords": ["microframework","framework","persistence","laravel"],
@@ -8,7 +8,12 @@
         {
             "name": "Mateus Fornari",
             "email": "mateusfornari@gmail.com",
-            "homepage": "https://github.com/mateusfornari/hypersistence-alpha"
+            "homepage": "https://github.com/mateusfornari"
+        }
+        {
+            "name": "Jacob Darrossi",
+            "email": "jacob.darrossi@gmail.com",
+            "homepage": "https://github.com/jacobdarrossi"
         }
     ],
     "require": {
