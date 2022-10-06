@@ -966,7 +966,7 @@ class Engine {
         }
     }
 
-    private function setRecursiveValuesToFill($objClass, $vars, $value, $obj = null, $checkFillable) {
+    private function setRecursiveValuesToFill($objClass, $vars, $value, $obj = null, $checkFillable = null) {
 
         self::init($objClass);
         $obj = $obj != NULL ? $obj : new $objClass();
