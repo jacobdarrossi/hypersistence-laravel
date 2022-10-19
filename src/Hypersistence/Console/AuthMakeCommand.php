@@ -3,11 +3,11 @@
 namespace Hypersistence\Console;
 
 use Illuminate\Console\Command;
-use Illuminate\Console\DetectsApplicationNamespace;
+//use Illuminate\Console\DetectsApplicationNamespace;
 
 class AuthMakeCommand extends Command
 {
-    use DetectsApplicationNamespace;
+//    use DetectsApplicationNamespace;
 
     /**
      * The name and signature of the console command.
